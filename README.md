@@ -1,2 +1,2 @@
-# Projeto 2 - Dashboard de Perfil dos Clientes
+# Projeto SQL 2 - Dashboard de Perfil dos Clientes
 Projeto guiado de análise do perfil dos clientes de um e-commerce de veículos, desenvolvido com SQL, PostgreSQL, pgAdmin e Excel.
